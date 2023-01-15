@@ -1,7 +1,7 @@
 users = {
-    'alex' : 'password',
-    'nick' : '12345',
-    'lali' : 'paroli',
+    'Jack' : 'password',
+    'Luke' : '12345',
+    'Jahn' : 'paroli',
 
 }
 
