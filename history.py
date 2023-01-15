@@ -1,7 +1,7 @@
 history = {
-    'alex' : [],
-    'nick' : [],
-    'lali' : [],
+    'Jack' : [],
+    'Luke' : [],
+    'John' : [],
 
 }
 
